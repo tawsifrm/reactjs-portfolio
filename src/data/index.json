@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Web-Development",
+      "description": "Experienced in Python, Django, JavaScript, Node.js, Angular, HTML, CSS, Bootstrap."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Mobile-App-Development",
+      "description": "Skilled in Java, Android Studio, and creating dynamic and interactive apps."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Machine Learning",
+      "description": "Proficient in TensorFlow, Keras, OpenCV, Scikit-learn, NumPy, Pandas, Matplotlib, and image classification."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Embedded Systems",
+      "description": "Knowledgeable in C, FreeRTOS, TI RM46 microcontroller, I2C, UART, and temperature sensors."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Dog Breed Identifier",
+      "description": "Python program that utilizes a pre-trained ResNet50V2 model to classify images of dogs into their respective breeds.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "SuperTyper - Typing Game",
+      "description": "A fun and challenging typing game where you can enhance your typing skills while enjoying superhero adventures.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Bricks Be Gone",
+      "description": "A fun and addictive android game where the player's objective is to break all the bricks using a paddle and a bouncing ball.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
