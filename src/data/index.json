@@ -3,13 +3,13 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Web-Development",
+      "title": "Web Development",
       "description": "Experienced in Python, Django, JavaScript, Node.js, Angular, HTML, CSS, Bootstrap."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Mobile-App-Development",
+      "title": "Mobile App Development",
       "description": "Skilled in Java, Android Studio, and creating dynamic and interactive apps."
     },
     {
@@ -31,21 +31,21 @@
       "src": "./img/placeholder-image.png",
       "title": "Dog Breed Identifier",
       "description": "Python program that utilizes a pre-trained ResNet50V2 model to classify images of dogs into their respective breeds.",
-      "link": "View In Github"
+      "link": "https://github.com/tawsifrm/Dog-Breed-Identifier"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "SuperTyper - Typing Game",
       "description": "A fun and challenging typing game where you can enhance your typing skills while enjoying superhero adventures.",
-      "link": "View In Github"
+      "link": "https://github.com/tawsifrm/SuperTyper"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Bricks Be Gone",
       "description": "A fun and addictive android game where the player's objective is to break all the bricks using a paddle and a bouncing ball.",
-      "link": "View In Github"
+      "link": "https://github.com/tawsifrm/Bricks-Be-Gone"
     }
   ],
   "testimonial": [

@@ -1,4 +1,13 @@
 export default function HeroSection() {
+  function myinfo() {
+    const email = "tawsifmayaz@gmail.com";
+    const phoneNumber = "437-224-5060";
+    const linkedin = "https://www.linkedin.com/in/tawsif-mayaz-6a0ba927a/";
+  
+    const message = `Email: ${email}\nPhone Number: ${phoneNumber}\nLinkedIn: ${linkedin}`;
+    
+    alert(message);
+  }
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
@@ -12,7 +21,7 @@ export default function HeroSection() {
           <p className="hero--section-description"> Passionate electrical engineering student with diverse software expertise, crafting innovative solutions for real-world challenges.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button className="btn btn-primary" onClick={myinfo}>Get In Touch</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
